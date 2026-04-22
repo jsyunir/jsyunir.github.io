@@ -112,7 +112,7 @@ main {
 
 .about-photo {
   flex-shrink: 0;
-  width: 400px;
+  width: 300px;
 }
 
 .about-photo img {
